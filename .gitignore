@@ -25,3 +25,7 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# Files and directories created by JetBrains Suite
+/matthieubonbon_github_io.iml
+/.idea/
